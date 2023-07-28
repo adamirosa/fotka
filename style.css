@@ -1,0 +1,119 @@
+<html>/* Absolut template for Drinks */
+
+/* Element styles */
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
+div.line {
+  white-space: nowrap;
+}
+h1 {
+  color: black;
+  font-family: Arial;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 34px;
+  line-height: 41px;
+  margin: 0;
+  width:470px;
+}
+table {
+  width: 100%;
+  line-height:18px;
+  padding:0;
+}
+table th {
+  color: black;
+  font-weight: bold;
+  text-align: left;
+  padding: 17px 0 7px;
+  font-family: Arial;
+  font-size: 18px;
+}
+table td {
+  color: black;
+  text-align: left;
+  padding-top:2px;
+  font-family: Arial;
+  font-size: 13px;
+  padding-right: 5px;
+  vertical-align:bottom;
+}
+table td.name { width:210px; text-transform:uppercase;}
+table td.volume { width:40px;}
+table td.price { width:55px; text-align:right;}
+
+/* Layout */
+
+div.content {
+  width: 800px;
+  height: 1132px;
+  background-position: relative;
+  background-repeat:no-repeat;
+  background-image-resize:6;
+}
+h1.title {
+  padding-top:60px;
+  padding-left:60px;
+  height:100px;
+}
+div.column-1 {
+  float: left;
+  width: 335px;
+  margin-left: 60px;
+}
+div.column-2 {
+  float: left;	
+  width: 330px;
+  margin-left: 25px;
+}
+/* Disclaimer at the bottom of last page working with mpdf 4.2 */
+body {
+  position: relative;
+}
+div.disclaimer {
+  position: absolute;
+  left: 60px;
+  bottom: 15px;
+  width: 670px;
+  color: #fff;
+  font-family: Arial;
+  font-size: 7px;
+  line-height: 8px;
+  text-align: justify;
+}
+div.content div.disclaimer {
+  position: static;
+  margin-left: 60px;
+  padding-top: 1000px;
+  width: 670px;
+  color: #fff;
+  font-family: Arial;
+  font-size: 11px;
+  line-height: 14px;
+  text-align: justify;
+}
+
+/* Profi print mode overrides */
+
+div.profi div.content {
+  width: 953px;
+  height: 1345px;
+}
+div.profi h1.title {
+  padding-top: 166px; /* 60 + 106.5 = 166.5 */
+  padding-left: 136px; /* 60 + 76.5 = 136.5 */
+}
+div.profi div.column-1 {
+  margin-left: 136px; /* 60 + 76.5 = 136.5 */
+}
+div.disclaimer-profi {
+  left: 136px; /* 68 + 76.5 = 144.5 */
+  bottom: 121px; /* 5 + 106.5 = 111.5 */
+}
+div.profi div.content div.disclaimer {
+  margin-left: 136px; /* 60 + 76.5 = 136.5 */
+  padding-top: 1106px; /* 900 + 106.5 = 1006.5 */
+}
