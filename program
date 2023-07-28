@@ -1,0 +1,157 @@
+<html>
+<head>
+        <script src="js/html2pdf.bundle.min.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+            <style type="text/css" media="all">@import url("style.css");
+       
+   
+</style>
+
+        
+    
+      
+    
+    
+                <!-- PAGE 1 -->
+        <div class="content page-1" style="background-image: url('https://github.com/adamirosa/fotka/blob/main/t1.jpg?raw=true')">
+
+                            <h1 class="title">
+                                       Nápojový lístok                </h1>
+            
+            
+                            <div class="column-1">
+<table>
+<tr><th colspan="3"><div class="line">Čapované pivo</div></th></tr>
+<tr><td class="name"><div class="line">RADEGAST 12°</div></td><td class="volume"><div class="line">0,5l</div></td><td class="price"><div class="line">2.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">RADEGAST 12°</div></td><td class="volume"><div class="line">0,3l</div></td><td class="price"><div class="line">1.60 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">RADEGAST RATAR 11°</div></td><td class="volume"><div class="line">0,5l</div></td><td class="price"><div class="line">2.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">RADEGAST RATAR 11°</div></td><td class="volume"><div class="line">0,3l</div></td><td class="price"><div class="line">1.60 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">KOZEL 10°</div></td><td class="volume"><div class="line">0,5l</div></td><td class="price"><div class="line">1.60 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">KOZEL 10°</div></td><td class="volume"><div class="line">0,3l</div></td><td class="price"><div class="line">1.20 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">PLZEŇ 12°</div></td><td class="volume"><div class="line">0,5l</div></td><td class="price"><div class="line">2.30 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">PLZEŇ 12°</div></td><td class="volume"><div class="line">0,3l</div></td><td class="price"><div class="line">1.70 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">ŠPECIÁL IPA (PODĽA PONUKY)</div></td><td class="volume"><div class="line">0,4l</div></td><td class="price"><div class="line">2.00 &euro;</div></td></tr>
+<tr><th colspan="3"><div class="line">Čapované nealko</div></th></tr>
+<tr><td class="name"><div class="line">KOFOLA</div></td><td class="volume"><div class="line">0,3l</div></td><td class="price"><div class="line">0.90 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">KOFOLA</div></td><td class="volume"><div class="line">0,5l</div></td><td class="price"><div class="line">1.50 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">MALINA</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">0.30 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">HROZNO</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">0.30 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">TONIC</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">0.30 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">SÓDA</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">0.30 &euro;</div></td></tr>
+<tr><th colspan="3"><div class="line">Nealkoholické nápoje (fľaškové)</div></th></tr>
+<tr><td class="name"><div class="line">CITRONÁDA</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">0.30 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">MINERÁLKA BUDIŠ</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">0.30 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">PEPSI</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">0.30 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">SPRITE</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">0.30 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">DŽÚS</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">0.30 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">VINEA</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">0.30 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">KRABIČKOVÝ DŽÚS</div></td><td class="volume"><div class="line">0,25</div></td><td class="price"><div class="line">1.00 &euro;</div></td></tr>
+<tr><th colspan="3"><div class="line">Alkoholické nápoje</div></th></tr>
+<tr><td class="name"><div class="line">ABSOLUT VODKA</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">2.40 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">SPIŠSKÁ BOROVICČKA</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.60 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">KB ŠPECIÁL</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">3.30 &euro;</div></td></tr>
+
+<tr><td class="name"><div class="line">HRUŠKA ORIG. SPIŠ</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.60 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">JUNIPER BOROVIČKA</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.60 &euro;</div></td></tr>
+</table>
+</div>
+                            <div class="column-2"> <p> </p>
+<table>
+<tr><td class="name"><div class="line">GIN</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.20 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">BOROVIČKA</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.20 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">VODKA</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.20 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">TUZEMSKÝ UM</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.20 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">TREN. HRADNÉ</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.20 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">VODKA ST. NICOLAUS</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.40 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">KARPATSKÉ HORKÉ</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.20 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">KARPATSKÉ BRANDY</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.40 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">FERNET CITRUS</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.60 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">FERNET STOCK</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"></td></tr>
+<tr><td class="name"><div class="line">BECHEROVKA</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.70 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">JIM BEAM-BOURBON</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">2.60 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">BOŠÁCKA SLIVOVICA</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">2.20 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">ČEREŠŇOVICA</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.20 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">KARPATSKÁ ZELENÁ</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.10 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">STARÁ MYSLIVECKÁ</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.40 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">TULLAMORE DEW</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">3.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">JACK DANIEL'S</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">3.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">RED LABEL</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">2.60 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">BALLANTINES</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">2.60 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">TATRANSKÝ ČAJ 52%</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">3.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">CAPT. MORGAN</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">1.70 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">RUSSIAN STANDART ORIGINAL</div><div class="line"> VODKA</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">2.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">THE POGUES IRISH WHISKEY 40%</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">3.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">BUMBU RUM ORIGINAL 40%</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">4.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">PROFESSORE RUM 38%</div></td><td class="volume"><div class="line">0,04l</div></td><td class="price"><div class="line">2.50 &euro;</div></td></tr>
+<tr><th colspan="3"><div class="line">Fľaškové nápoje</div></th></tr>
+<tr><td class="name"><div class="line">PLZEŇ 12° </div></td><td class="volume"><div class="line">0,5l</div></td><td class="price"><div class="line">2.20 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">BIRELL POMELO - GREP</div></td><td class="volume"><div class="line">0,5l</div></td><td class="price"><div class="line">1.60 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">BIRELL NEALKO</div></td><td class="volume"><div class="line">0,5l</div></td><td class="price"><div class="line">1.60 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">ZÁLOHA ZA FĽAŠU</div></td><td class="volume"></td><td class="price"><div class="line">0.15 &euro;</div></td></tr>
+</table>
+</div>
+            
+        </div>
+        <!-- PAGE 1 END -->
+                    <!-- PAGE 2 -->
+        <div class="content page-2" style="background-image: url('t1.jpg')">
+
+                            <h1 class="title">
+                                       Nápojový lístok                </h1>
+            
+            
+                            <div class="column-1">
+<table>
+
+<tr><th colspan="3"><div class="line">Víno (fľaškové)</div></th></tr>
+<tr><td class="name"><div class="line">FRANKOVKA MODRÁ ROZL.</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">0.70 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">RIZLING VLAŠSKÝ ROZL.</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">0.70 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">VARENÉ VÍNO</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">1.50 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">HUBERT DE LUXE</div></td><td class="volume"><div class="line">0,75l</div></td><td class="price"><div class="line">13.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">TOPOĽČIANSKY VELTLÍN.</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">1.10 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">TOPOĽČIANSKY FRAN.</div></td><td class="volume"><div class="line">0,1l</div></td><td class="price"><div class="line">1.10 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">TOPOĽČIANSKY VELTLÍN.</div></td><td class="volume"><div class="line">1,00l</div></td><td class="price"><div class="line">11.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">TOPOĽČIANSKY FRAN.</div></td><td class="volume"><div class="line">1,00l</div></td><td class="price"><div class="line">11.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">MODRÝ PORTUGAL</div></td><td class="volume"><div class="line">1,00l</div></td><td class="price"><div class="line">4.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">MÜLLER THURGAU</div></td><td class="volume"><div class="line">1,00l</div></td><td class="price"><div class="line">4.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">RIZLING VLAŠSKÝ</div></td><td class="volume"><div class="line">1,00l</div></td><td class="price"><div class="line">7.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">VELTLÍNSKE ZELENÉ</div></td><td class="volume"><div class="line">1,00l</div></td><td class="price"><div class="line">4.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">FRANKOVKA MODRÁ</div></td><td class="volume"><div class="line">1,00l</div></td><td class="price"><div class="line">7.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">SVÄTOVAVRIN. ČERVENÉ</div></td><td class="volume"><div class="line">1,00l</div></td><td class="price"><div class="line">4.00 &euro;</div></td></tr>
+<tr><th colspan="3"><div class="line">Teplé nápoje</div></th></tr>
+<tr><td class="name"><div class="line">KÁVA ZALIEVANÁ</div></td><td class="volume"><div class="line">7g</div></td><td class="price"><div class="line">1.20 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">KÁVA NESCA</div></td><td class="volume"><div class="line">7g</div></td><td class="price"><div class="line">1.20 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">ESPRESSO</div></td><td class="volume"><div class="line">7g</div></td><td class="price"><div class="line">1.30 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">SMOTANA</div></td><td class="volume"><div class="line">10g</div></td><td class="price"><div class="line">0.20 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">ČAJ + CUKOR</div></td><td class="volume"></td><td class="price"><div class="line">1.30 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">ČAJ + CUKOR + CITRÓN</div></td><td class="volume"></td><td class="price"><div class="line">1.50 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">MED</div></td><td class="volume"><div class="line">15g</div></td><td class="price"><div class="line">0.30 &euro;</div></td></tr>
+</table>
+</div>
+                            <div class="column-2">
+<table>
+<tr><th colspan="3"><div class="line">Špeciality</div></th></tr>
+<tr><td class="name"><div class="line">UTOPENEC</div></td><td class="volume"><div class="line">1ks</div></td><td class="price"><div class="line">2.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">NAKLADANÝ HERMELÍN</div></td><td class="volume"><div class="line">1ks</div></td><td class="price"><div class="line">3.20 &euro;</div></td></tr>
+
+<tr><th colspan="3"><div class="line">Slané pochúťky</div></th></tr>
+<tr><td class="name"><div class="line">ARAŠIDY</div></td><td class="volume"><div class="line">100g</div></td><td class="price"><div class="line">1.80 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">TYČINKY-DLHÉ</div></td><td class="volume"><div class="line">100g</div></td><td class="price"><div class="line">2.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">TYČINKY SLOVAKIA</div></td><td class="volume"><div class="line">85g</div></td><td class="price"><div class="line">2.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">CHIPS</div></td><td class="volume"><div class="line">100g</div></td><td class="price"><div class="line">2.00 &euro;</div></td></tr>
+<tr><td class="name"><div class="line">CHRUMKY</div></td><td class="volume"></td><td class="price"><div class="line">1.50 &euro;</div></td></tr>
+</table>
+</div>
+            
+        </div>
+        <!-- PAGE 2 END -->
+            
+        
+    </div>
+    <div class="disclaimer ">
+                Ceny sú konečné, vrátane DPH, cenník je&nbsp;platný od&nbsp;27. 7. 2023<br/> Tento nápojový lístok bol vytvorený prevádzkovateľom gastro zariadenia Pizza Migelli.</b>,
+        Cenník sa môžu meniť z dôvodu neustálene pohybujúcej sa finančnej situácie, preto ceny konzultujte s obsluhou. Viac informácií na <b></b>www.pizzamigelli.sk</b>
+    </div>
+
+
+</body>
